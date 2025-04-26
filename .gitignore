@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# idx studio (firebase Studio)
+.idx
+
+# vscode
+.vscode
+
+# otros
+Todo.md

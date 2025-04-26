@@ -1,0 +1,28 @@
+
+# FastAPI core
+fastapi
+uvicorn[standard]
+
+# Base de datos
+sqlalchemy
+psycopg2-binary
+
+# Validación
+pydantic
+
+# Variables de entorno
+python-dotenv
+
+# Seguridad
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Migraciones
+alembic
+
+# Testeo
+pytest
+httpx
+
+# CORS y utilidades
+python-multipart
